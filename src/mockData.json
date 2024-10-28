@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Chandigarh Carnival",
+    "date": "2024-10-25",
+    "location": "Chandigarh",
+    "description": "A fun-filled day with music, food, and games for all ages.",
+    "image": "https://www.taazascoop.com/wp-content/uploads/2024/08/Chandigarh-Carnival-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tech Expo",
+    "date": "2024-11-05",
+    "location": "Panchkula, IT Park",
+    "description": "Explore the latest in technology and innovation.",
+    "image": "https://iiot-world-com.b-cdn.net/wp-content/uploads/exhibition-with-interactive-digital-displays-contemporary-trade-fair-hall-ai-generated.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Art Exhibition",
+    "date": "2024-11-10",
+    "location": "Zirakpur",
+    "description": "Explore stunning artworks from local artists at this exclusive exhibition.",
+    "image": "https://listart.mit.edu/sites/default/files/styles/landscape_crop_100/public/media/images/2022-09/1a3a2767.jpg.webp?itok=bRyDAYRk"
+  },
+  {
+    "id": 4,
+    "name": "Yoga Retreat",
+    "date": "2024-11-15",
+    "location": "Mohali",
+    "description": "Join a serene yoga retreat to rejuvenate your mind and body in a tranquil setting.",
+    "image": "https://www.yogkulam.org/images/5-day-retreat1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chandigarh Food Festival",
+    "date": "2024-11-20",
+    "location": "Chandigarh",
+    "description": "Indulge in the rich culinary diversity of Chandigarh at this food festival.",
+    "image": "https://content.jdmagicbox.com/comp/chandigarh/g1/0172px172.x172.140501122039.f6g1/catalogue/ruby-s-delight-foods-mohali-sas-nagar-mohali-restaurants-gko3x25qrg.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Panchkula Music Festival",
+    "date": "2024-11-25",
+    "location": "Panchkula",
+    "description": "Enjoy live performances from various artists at this vibrant music festival.",
+    "image": "https://chdlife.com/wp-content/uploads/2024/05/Clubs.webp"
+  },
+  {
+    "id": 7,
+    "name": "Zirakpur Marathon",
+    "date": "2024-12-01",
+    "location": "Zirakpur",
+    "description": "Join us for a charity marathon to support local communities.",
+    "image": "https://cdn2.allevents.in/thumbs/thumb66daac31903f0.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Holiday Craft Fair",
+    "date": "2024-12-10",
+    "location": "Mohali",
+    "description": "Shop for unique handmade crafts and gifts at this holiday fair.",
+    "image": "https://princeofpeacetaylors.org/wp-content/uploads/2023/07/Craft-Fair-Gift-Market-980x512.png"
+  },
+  {
+    "id": 9,
+    "name": "Chandigarh Fashion Week",
+    "date": "2024-12-15",
+    "location": "Chandigarh",
+    "description": "Discover the latest trends at this exclusive fashion event featuring top designers.",
+    "image": "https://iifd.in/wp-content/uploads/2022/11/4_2_11zon.jpg"
+  },
+  {
+    "id": 10,
+    "name": "New Year Celebration",
+    "date": "2024-12-31",
+    "location": "Panchkula",
+    "description": "Ring in the New Year with festivities, live music, and fireworks.",
+    "image": "https://png.pngtree.com/thumb_back/fw800/background/20240616/pngtree-golden-celebration-welcoming-new-year-2025-image_15890169.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cultural Night",
+    "date": "2024-11-02",
+    "location": "Chandigarh",
+    "description": "Experience the cultural diversity of the region with dance and music performances.",
+    "image": "https://i.pinimg.com/originals/70/6f/7b/706f7bccafe98b87da5072961d59d9fb.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Children's Book Fair",
+    "date": "2024-11-12",
+    "location": "Zirakpur",
+    "description": "A fair dedicated to children's literature with fun activities and readings.",
+    "image": "https://scontent.xx.fbcdn.net/o1/v/t0/f1/m340/genai_m4_ftw_hil_v3:upload_img_25216258_10_28_2024_07_41_50_831108_7391671819866493399.jpeg?_nc_ht=scontent.fixc1-5.fna.fbcdn.net&_nc_cat=108&ccb=9-4&oh=00_AYD56kGG2hxFz4ZHIB52iaW0evwIXbeUGWt4fvpoEERroQ&oe=67217811&_nc_sid=5b3566"
+  },
+  {
+    "id": 13,
+    "name": "Fitness Fest",
+    "date": "2024-11-18",
+    "location": "Mohali",
+    "description": "Join us for a day of fitness activities, workshops, and health talks.",
+    "image": "https://scontent.xx.fbcdn.net/o1/v/t0/f1/m340/genai_m4_lla_eag_v3:upload_img_48772412_10_28_2024_07_43_01_157712_349159064212506684.jpeg?_nc_ht=scontent.fixc1-5.fna.fbcdn.net&_nc_cat=103&ccb=9-4&oh=00_AYCYXe91dxMx0sAcbLmV2DpZKx5lYuU-kRmBry8NTq65kg&oe=67218083&_nc_sid=5b3566"
+  },
+  {
+    "id": 14,
+    "name": "Panchkula Art & Craft Workshop",
+    "date": "2024-11-22",
+    "location": "Panchkula",
+    "description": "Learn new art techniques at this hands-on workshop for all ages.",
+    "image": "https://scontent.xx.fbcdn.net/o1/v/t0/f1/m340/genai_m4_nha_ldc_v3:upload_img_75102679_10_28_2024_07_44_33_190137_6516403226815896072.jpeg?_nc_ht=scontent.fixc1-5.fna.fbcdn.net&_nc_cat=108&ccb=9-4&oh=00_AYDAMYgkZRaBCzvrr6fd8nMGzmloz3g5ZaRA0J3T5u0u-A&oe=67217AE1&_nc_sid=5b3566"
+  },
+  {
+    "id": 15,
+    "name": "Chandigarh Film Festival",
+    "date": "2024-11-28",
+    "location": "Chandigarh",
+    "description": "Showcasing the best of independent films from around the world.",
+    "image": "https://scontent.xx.fbcdn.net/o1/v/t0/f1/m340/genai_m4_prn_vll_v3:upload_img_58913519_10_28_2024_07_45_51_372716_5018310050203800680.jpeg?_nc_ht=scontent.fixc1-5.fna.fbcdn.net&_nc_cat=107&ccb=9-4&oh=00_AYA-t0-GBf8__5_KIOMbsP1AFOF1Ehb-vF3g4ZWPlomILw&oe=67218504&_nc_sid=5b3566"
+  },
+  {
+    "id": 16,
+    "name": "Panchkula Science Fair",
+    "date": "2024-12-05",
+    "location": "Panchkula",
+    "description": "Discover exciting science projects and experiments at this interactive fair.",
+    "image": "https://scontent.xx.fbcdn.net/o1/v/t0/f1/m340/genai_m4_atn_ftw_v3:upload_img_91719798_10_28_2024_07_53_12_458444_6782769463001808683.jpeg?_nc_ht=scontent.fixc1-5.fna.fbcdn.net&_nc_cat=111&ccb=9-4&oh=00_AYD3vvqiXIEv5O-JuVMeQg_-C0jG5dsf4s81XWz2DSoiZw&oe=672175DC&_nc_sid=5b3566"
+  },
+  {
+    "id": 17,
+    "name": "Zirakpur Pet Show",
+    "date": "2024-12-12",
+    "location": "Zirakpur",
+    "description": "Bring your pets for a fun-filled day with contests, games, and more!",
+    "image": "https://scontent.xx.fbcdn.net/o1/v/t0/f1/m340/genai_m4_odn_pnb_v3:upload_img_47504521_10_28_2024_07_54_44_573988_4049697518792592827.jpeg?_nc_ht=scontent.fixc1-5.fna.fbcdn.net&_nc_cat=100&ccb=9-4&oh=00_AYD_YAD8MquPQ_BlQXZnnflssQ1UkjS4pycPymVOT7wfRA&oe=67218171&_nc_sid=5b3566"
+  },
+  {
+    "id": 18,
+    "name": "Mohali Tech Fest",
+    "date": "2024-12-18",
+    "location": "Mohali",
+    "description": "Showcase of technological innovations and startups in the region.",
+    "image": "https://scontent.fixc1-5.fna.fbcdn.net/o1/v/t0/f1/m340/genai_m4_rva_atn_v3:upload_img_51659354_10_28_2024_07_56_08_689203_7699521522730260269.jpeg?_nc_ht=scontent.fixc1-5.fna.fbcdn.net&_nc_cat=107&ccb=9-4&oh=00_AYAVRHLsoZ88BLOuGYujU7HnhadyZ0jez19cBtPgktp8qA&oe=6721840C&_nc_sid=5b3566"
+  },
+  {
+    "id": 19,
+    "name": "Chandigarh Winter Carnival",
+    "date": "2024-12-20",
+    "location": "Chandigarh",
+    "description": "Celebrate the winter season with food, music, and entertainment for the whole family.",
+    "image": "https://scontent.fixc1-5.fna.fbcdn.net/o1/v/t0/f1/m340/genai_m4_ftw_atn_v3:upload_img_56895691_10_28_2024_07_56_52_238846_1354409449613971511.jpeg?_nc_ht=scontent.fixc1-5.fna.fbcdn.net&_nc_cat=107&ccb=9-4&oh=00_AYDirW_e285dqnQGGkoFdPWR4SHCDACrQfJS7_gs8o356w&oe=67218DE0&_nc_sid=5b3566"
+  },
+  {
+    "id": 20,
+    "name": "New Year’s Gala",
+    "date": "2024-12-31",
+    "location": "Mohali",
+    "description": "A grand celebration to ring in the New Year with dinner, dancing, and live music.",
+    "image": "https://scontent.fixc1-5.fna.fbcdn.net/o1/v/t0/f1/m340/genai_m4_ftw_vll_v3:upload_img_72885179_10_28_2024_07_57_17_723992_4200063738273291004.jpeg?_nc_ht=scontent.fixc1-5.fna.fbcdn.net&_nc_cat=100&ccb=9-4&oh=00_AYAFDuD-LWpARTj0Odq3WUcR4NNdjhNc6LX4ErgFtQQLEg&oe=672199C9&_nc_sid=5b3566"
+  }
+]
